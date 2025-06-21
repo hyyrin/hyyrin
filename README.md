@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**hyyrin/hyyrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm hyyrin!
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I am a junior student majoring in Computer Science and Information Engineering at National Taiwan University.
+
+## 📊 GitHub Stats
+
+![hyyrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyyrin&show_icons=true&theme=default&hide_title=false)
+
+![hyyrin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyyrin&layout=compact&theme=default)
+
