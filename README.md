@@ -8,7 +8,9 @@
 
 ## 📊 GitHub Stats
 
+<!--
 ![hyyrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyyrin&show_icons=true&theme=default&hide_title=false)
+-->
 
 ![hyyrin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyyrin&layout=compact&theme=default)
 
