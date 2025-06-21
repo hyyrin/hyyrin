@@ -4,6 +4,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I am a junior student majoring in Computer Science and Information Engineering at National Taiwan University.
+- 🔥 Passionate about both hardware and software, especially in system design.
 
 ## 📊 GitHub Stats
 
